@@ -1,4 +1,18 @@
-### Hi there 👋
+
+# Hi, I'm [Anna]! 👋
+
+## About Me
+👨‍💻 I'm a unique blend of a Software Developer and Animator, specializing in the dynamic fields of Web Design and Rotoscoping. My journey in technology has led me to explore the intersection of code and creativity, allowing me to craft interactive web experiences with a touch of artistic flair.
+
+As a Software Developer, I am adept at building responsive and user-friendly websites, always aiming to balance functionality with aesthetic appeal. My expertise in HTML, CSS, JavaScript, and various web frameworks empowers me to bring innovative designs to life.
+
+In the realm of animation, my focus on Rotoscoping has equipped me with a keen eye for detail and motion. This skill not only enhances my web designs but also allows me to create engaging visual content that resonates with viewers.
+
+Combining these disciplines, I strive to create digital experiences that are not only technically sound but also visually captivating. Whether it's developing a sleek website or animating a complex scene, my goal is to push the boundaries of what's possible at the convergence of coding and art.
+
+🌟 Main interests: Crafting interactive web experiences, exploring new animation techniques, and continuously learning about the latest trends in technology and design.
+
+Feel free to explore my projects and see where technology meets art!
 
 <!--
 **annaterzian/annaterzian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
