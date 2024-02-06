@@ -14,7 +14,7 @@ Combining these disciplines, I strive to create digital experiences that are not
 
 Feel free to explore my projects and see where technology meets art!
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6508983ed5295d7a811fc56c?variant=dark)](https://roadmap.sh)
+
 <!--
 **annaterzian/annaterzian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
