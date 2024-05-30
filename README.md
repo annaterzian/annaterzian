@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=4000&pause=100&color=3AF7DF&center=true&vCenter=true&multiline=true&random=false&width=1000&height=250&lines=Username%3A+Anna+Terzian;Password%3A+**********;Signing+in+.+.+.+.+.+.;Hello+World!)](https://git.io/typing-svg)
 
-# Hi, I'm [Anna]! 👋
+# Hi, I'm Anna! 👋
 
 ## About Me
 👨‍💻 I'm a unique blend of a Software Developer and Animator, specializing in the dynamic fields of Web Design and Rotoscoping. My journey in technology has led me to explore the intersection of code and creativity, allowing me to craft interactive web experiences with a touch of artistic flair.
