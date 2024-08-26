@@ -3,17 +3,22 @@
 # Hi, I'm Anna! 👋
 
 ## About Me
-👨‍💻 I'm a unique blend of a Software Developer and Animator, specializing in the dynamic fields of Web Design and Rotoscoping. My journey in technology has led me to explore the intersection of code and creativity, allowing me to craft interactive web experiences with a touch of artistic flair.
+👨‍💻 I'm a Software Developer with a passion for AI, Machine Learning, and UX Design. My journey in technology has allowed me to explore the synergies between code and creativity, enabling me to develop innovative solutions that are both technically robust and user-friendly.
 
-As a Software Developer, I am adept at building responsive and user-friendly websites, always aiming to balance functionality with aesthetic appeal. My expertise in HTML, CSS, JavaScript, and various web frameworks empowers me to bring innovative designs to life.
+As a developer, I specialize in building scalable applications using a variety of programming languages and frameworks, including Python, Java, JavaScript/TypeScript, and C/C++. My technical toolkit also includes extensive experience with React, Node.js, and popular data science libraries like pandas and NumPy.
 
-In the realm of animation, my focus on Rotoscoping has equipped me with a keen eye for detail and motion. This skill not only enhances my web designs but also allows me to create engaging visual content that resonates with viewers.
+## What I Do
+- **AI & Machine Learning**: I leverage AI and NLP technologies to create intelligent applications that can process and understand human language. My work in this field includes fine-tuning models for backend deployment and integrating AI-driven features into web applications.
+- **Web Development**: I build responsive and user-centric web applications, focusing on delivering seamless user experiences. My expertise in front-end and back-end technologies ensures that the products I create are both functional and aesthetically pleasing.
+- **UX Design**: With a strong foundation in design tools like Figma and Adobe Creative Suite, I bring a designer’s eye to every project. My goal is to create digital experiences that are intuitive, engaging, and visually compelling.
 
-Combining these disciplines, I strive to create digital experiences that are not only technically sound but also visually captivating. Whether it's developing a sleek website or animating a complex scene, my goal is to push the boundaries of what's possible at the convergence of coding and art.
+🌟 Main interests: 
+- Exploring the intersection of AI and User Experience.
+- Building scalable, responsive web applications
+- Continously learning about new technologies and design trends
 
-🌟 Main interests: Crafting interactive web experiences, exploring new animation techniques, and continuously learning about the latest trends in technology and design.
-
-Feel free to explore my projects and see where technology meets art!
+### Let's Connect
+Feel free to explore my repositories and projects, where technology and creativity come together to push the boundaries of what's possible. Whether you're interested in AI, software development, or UX design, I’m always open to collaboration and new opportunities.
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
