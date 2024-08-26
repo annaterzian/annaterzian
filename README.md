@@ -18,9 +18,9 @@ As a developer, I specialize in building scalable applications using a variety o
 - Continously learning about new technologies and design trends
 
 ### Let's Connect
-Feel free to explore my repositories and projects, where technology and creativity come together to push the boundaries of what's possible. Whether you're interested in AI, software development, or UX design, I’m always open to collaboration and new opportunities.
+Feel free to explore my repositories and projects, where technology and creativity come together to push the boundaries of what's possible. Whether you're interested in AI, software development, or UX design, I’m always open to collaboration and new opportunities. Message me on LinkedIn!
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annaterzian/)
 
 
 <!--
@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) 
 -->
